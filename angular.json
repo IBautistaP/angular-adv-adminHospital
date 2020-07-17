@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "adminHospital"
+    }
+  },
+  "defaultProject": "adminHospital",
+  "cli": {
+    "analytics": false
+  }
 }
